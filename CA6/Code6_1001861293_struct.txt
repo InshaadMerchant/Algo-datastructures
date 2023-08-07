@@ -1,0 +1,9 @@
+typedef struct LegendaryCricketers
+{
+    char *name;
+    float battingAverage;
+    char country;
+    int age;
+    struct LegendaryCricketers *next_ptr;
+}
+LEGENDARYCRICKETERS;

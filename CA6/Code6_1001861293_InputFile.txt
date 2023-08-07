@@ -1,0 +1,30 @@
+Don Bradman|99.94|Australia|92
+Harry Brook|62.15|England|24
+Steve Smith|58.61|Australia|34
+Gary Sobers|57.78|West Indies|87
+Kumar Sangakkara|57.40|SriLanka|45
+Daryl Mitchell|57.21|New Zealand|32 
+Jacques Kallis|55.37|South Africa|47
+Kane Williamson|54.89|New Zealand|33
+Sachin Tendulkar|53.78|India|50
+Marnus Labuschagne|53.36|Australia|29
+Brian Lara|52.88|West Indies|54
+Javed Miandad|52.57|Pakistan|66
+Rahul Dravid|52.31|India|50
+Mohammad Yousuf|52.29|Pakistan|48
+Younis Khan|52.05|Pakistan|45
+Ricky Ponting|51.85|Australia|48
+Mike Hussey|51.52|Australia|48
+Sunil Gavaskar|51.12|India|74
+Abdullah Shafique|50.83|Pakistan|23
+ABD Villiers|50.66|South Africa|39
+Joe Root|50.29|England|32
+Viv Richards|50.23|West Indies|71
+Devon Conway|50.10|New Zealand|32
+Mahila Jayawardene|49.84|SriLanka|46
+Inzamam Ulhaq|49.60|Pakistan|53
+Virender Sehwag|49.34|India|44
+Virat Kohli|49.29|India|34
+Abid Ali|49.16|Pakistan|35
+Babar Azam|47.7|Pakistan|28
+Mohammad Rizwan|39.5|Pakistan|31
